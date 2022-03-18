@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 27\UC14\bin\Debug\net6.0\UC14.exe
+C:\Users\Nirav Raj\Desktop\day 27\UC14\bin\Debug\net6.0\UC14.deps.json
+C:\Users\Nirav Raj\Desktop\day 27\UC14\bin\Debug\net6.0\UC14.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 27\UC14\bin\Debug\net6.0\UC14.dll
+C:\Users\Nirav Raj\Desktop\day 27\UC14\bin\Debug\net6.0\UC14.pdb
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.dll
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\refint\UC14.dll
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.pdb
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\UC14.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC14\obj\Debug\net6.0\ref\UC14.dll
