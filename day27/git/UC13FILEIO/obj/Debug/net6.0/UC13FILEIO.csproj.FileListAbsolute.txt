@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\bin\Debug\net6.0\UC13FILEIO.exe
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\bin\Debug\net6.0\UC13FILEIO.deps.json
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\bin\Debug\net6.0\UC13FILEIO.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\bin\Debug\net6.0\UC13FILEIO.dll
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\bin\Debug\net6.0\UC13FILEIO.pdb
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.dll
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\refint\UC13FILEIO.dll
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.pdb
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\UC13FILEIO.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 27\UC13FILEIO\obj\Debug\net6.0\ref\UC13FILEIO.dll
